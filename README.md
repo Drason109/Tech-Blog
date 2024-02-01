@@ -1,6 +1,7 @@
 # Tech-Blog
 
-## This application will demonstrate how handlebar work with the mysql database to store peoples post and login info. The handlebar grabs the info from the page when the user adds a post or try to login. Just like in real life social media platform, this application send and stores the data from the page that the user has submited and can also request thier post, that they created, when they login to the page. Mysql holds the data about the user and the post they submit which they can request to appear when they login showing how the page interacts with client.
+##Description
+This application will demonstrate how handlebar work with the mysql database to store peoples post and login info. The handlebar grabs the info from the page when the user adds a post or try to login. Just like in real life social media platform, this application send and stores the data from the page that the user has submited and can also request thier post, that they created, when they login to the page. Mysql holds the data about the user and the post they submit which they can request to appear when they login showing how the page interacts with client.
 
 ## Table of Contents
 
